@@ -1,5 +1,5 @@
 {
-    "title": "Crappy Christmas",
+    "title": "Business Casual",
     "name": "startbootstrap-business-casual",
     "version": "5.0.9",
     "scripts": {
@@ -20,7 +20,7 @@
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Crappy Christmas",
+    "author": "Start Bootstrap",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
